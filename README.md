@@ -2,7 +2,7 @@
 
 ## 1. A screenshot of the console output with generated Deposit Receiver Address
 
-![](1.depositReceiverAddress.png)
+![](1depositReceiverAddress.png)
 
 ## 2. Deposit Receiver Address
 
